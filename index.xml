@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metria</title>
+    <link>https://metria.ru/</link>
+    <description>Recent content on metria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Thu, 09 Jul 2020 01:16:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://metria.ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://metria.ru/posts/my-first-post/</link>
+      <pubDate>Thu, 09 Jul 2020 01:16:00 +0300</pubDate>
+      
+      <guid>https://metria.ru/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
